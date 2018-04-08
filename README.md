@@ -1,1 +1,3 @@
-# Basic_login_process
+Basic Login Process Using session() and cookie() !
+
+Language: HTML , PHP , Javascript
